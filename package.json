@@ -1,6 +1,6 @@
 {
   "name": "quick-flow-test",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "quick git tester for git flow shortcuts",
   "main": "index.js",
   "scripts": {

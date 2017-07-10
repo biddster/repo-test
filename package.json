@@ -1,7 +1,7 @@
 {
   "name": "quick-flow-test",
   "version": "0.2.0",
-  "description": "quick git tester",
+  "description": "quick git tester for git flow shortcuts",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
